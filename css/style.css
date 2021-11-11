@@ -1,0 +1,51 @@
+.colors{
+    background-color: #181818;
+}
+
+.styles{
+    color: white;
+ 
+    border: 5px solid #C1C1C1;
+    border-radius: 25px;
+    padding: 50px 50px 50px 50px;
+    background-color: #373737;
+}
+.o_style{
+    
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    color: white;
+}
+.h_style{
+    text-align: center;
+    padding-bottom: 50px;
+    -webkit-text-stroke: 1px black; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    color: white;
+}
+
+.t_Style{
+    
+    font-weight: bold;
+    text-decoration: underline;
+    color:tomato;
+    font-size: 20px;
+    text-align: center;   
+}
+
+
+.p_Style{
+    text-decoration: underline;
+    font-size: 20px;
+    color: yellowgreen;
+    margin-top: 30px;
+     
+}
+
+.a_style{
+   
+    color: yellowgreen;
+    padding-top: 20px;   
+}
+
+
+
